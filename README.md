@@ -39,7 +39,7 @@ Follow these steps to set up and run the AI-Web-Scraper:
    Update the model to your preferred version of Llama. Open your terminal and run:
 
    ```bash
-   ollama:latest
+   ollama list
    ```
 
    Then, specify the version of Llama you wish to use in ```parse.py```
